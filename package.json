@@ -62,7 +62,7 @@
   "dependencies": {
     "async": "*",
     "litecore-lib": "emptyflash/faithcore-lib#5c1b03da6",
-    "litecore-message": "emptyflash/litecore-message#0b01817",
+    "litecore-message": "emptyflash/faithcore-message#0b01817",
     "body-parser": "^1.13.3",
     "compression": "^1.6.1",
     "lodash": "^2.4.1",
