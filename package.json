@@ -61,7 +61,7 @@
   "bitcoreNode": "lib",
   "dependencies": {
     "async": "*",
-    "litecore-lib": "^0.13.22",
+    "litecore-lib": "emptyflash/faithcore-lib#5c1b03da6",
     "litecore-message": "^1.0.5",
     "body-parser": "^1.13.3",
     "compression": "^1.6.1",
